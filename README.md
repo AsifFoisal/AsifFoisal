@@ -21,22 +21,25 @@ I'm **G.M Asif Foisal**, a passionate **Full Stack Web Developer** who loves cra
 <div align="center">
 
 ### 🏗️ Project Name
-*A one-line description of what you're building and the problem it solves.*
+*Building a production-grade [brief description, e.g., SaaS dashboard / e-commerce platform] focused on performance, scalability, and real user needs.*
 
 [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Visit_Now-7c3aed?style=for-the-badge)](https://your-project-live-link.com)
-[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-111827?style=for-the-badge&logo=github)](https://github.com/AsifFoisal/project-repo)
 
 </div>
 
 ---
 
-## 🌐 Websites I've Built
+## 🌐 Production Websites I've Delivered
 
-| # | Website | What It Does | Links |
+All projects below are **live in production** serving real users. Source code is private to respect client confidentiality and intellectual property agreements.
+
+| # | Website | What It Does | Live Link |
 |:---:|:---|:---|:---|
-| 01 | **Website Name** | One-line description of the project | [Live ↗](https://link.com) · [Code](https://github.com/username/repo) |
-| 02 | **Website Name** | One-line description of the project | [Live ↗](https://link.com) · [Code](https://github.com/username/repo) |
-| 03 | **Website Name** | One-line description of the project | [Live ↗](https://link.com) · [Code](https://github.com/username/repo) |
+| 01 | **Website Name** | One-line description of the business problem it solves | [Visit ↗](https://link.com) |
+| 02 | **Website Name** | One-line description of the business problem it solves | [Visit ↗](https://link.com) |
+| 03 | **Website Name** | One-line description of the business problem it solves | [Visit ↗](https://link.com) |
+
+> 💡 *For open-source contributions and personal projects where code can be shared, see my pinned repositories above.*
 
 ---
 
