@@ -107,21 +107,9 @@ All projects below are **live in production** serving real users. Source code is
 
 <div align="center">
 
-### 📫 Let's Connect
-
-<a href="mailto:your@email.com">
-  <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Email" width="36" height="36" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/AsifFoisal">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="36" height="36" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://your-portfolio.com">
-  <img src="https://cdn.simpleicons.org/googlechrome/7c3aed" alt="Portfolio" width="36" height="36" />
-</a>
-
-<br><br>
+[![Email](https://img.shields.io/badge/Gmail-asiffoisalaisc@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asiffoisalaisc@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-G.M%20Asif%20Foisal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asif-foisal-b1183436b)
+[![Facebook](https://img.shields.io/badge/Facebook-G.M%20Asif%20Foisal-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/asif.foisal.2025)
 
 **Open to freelance projects, collaborations & full-time opportunities.**
 
