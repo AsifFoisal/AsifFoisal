@@ -1,6 +1,6 @@
 <!-- ═══════════════ BANNER ═══════════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:c026d3&height=230&section=header&text=G.M%20Asif%20Foisal&fontSize=44&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Web%20Developer&descSize=17&descAlignY=61" alt="G.M Asif Foisal — Full Stack Web Developer" />
+<div align="center" style="width: 100%; margin: 0; padding: 0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:c026d3&height=230&section=header&text=G.M%20Asif%20Foisal&fontSize=44&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Web%20Developer&descSize=17&descAlignY=61&width=1000" alt="G.M Asif Foisal — Full Stack Web Developer" style="width: 100%; height: auto; display: block; border-radius: 0;" />
 </div>
 
 ---
@@ -109,7 +109,7 @@ All projects below are **live in production** serving real users. Source code is
 
 [![Email](https://img.shields.io/badge/Gmail-asiffoisalaisc@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asiffoisalaisc@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-G.M%20Asif%20Foisal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asif-foisal-b1183436b)
-[![Facebook](https://img.shields.io/badge/Facebook-G.M%20Asif%20Foisal-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/asif.foisal.2025)
+[![Facebook](https://img.shields.io/badge/Facebook-%20Asif%20Foisal-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/asif.foisal.2025)
 
 **Open to freelance projects, collaborations & full-time opportunities.**
 
@@ -122,6 +122,6 @@ All projects below are **live in production** serving real users. Source code is
 > *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 </div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:c026d3&height=110&section=footer" alt="G.M Asif Foisal — Full Stack Web Developer" />
+<div align="center" style="width: 100%; margin: 0; padding: 0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:c026d3&height=110&section=footer&width=1000" alt="Footer wave" style="width: 100%; height: auto; display: block; border-radius: 0;" />
 </div>
