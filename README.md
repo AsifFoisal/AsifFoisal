@@ -39,7 +39,7 @@ All projects below are **live in production** serving real users. Source code is
 | 02 | **Zhua Furniture** | A South African home-solutions e-commerce platform selling premium furniture | [Visit ↗](https://www.zhuafurniture.com/) |
 | 03 | **Comptron** | The official Computer and Technology Club of North Western University (Bangladesh), organizing tech events, workshops, and competitions | [Visit ↗](https://comptron.nwu.ac.bd/) |
 
-> 💡 *For open-source contributions and personal projects where code can be shared, see my pinned repositories above.*
+> 💡 *For open-source contributions and personal projects where code can be shared, see my pinned repositories.*
 
 ---
 
