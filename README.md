@@ -54,7 +54,7 @@ All projects below are **live in production** serving real users. Source code is
 ![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&perline=10)
 
 ### ⚙️ Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,express,python&perline=10)
+![Backend](https://skillicons.dev/icons?i=nodejs,express&perline=10)
 
 ### 🗄️ Database & Auth
 ![Database](https://skillicons.dev/icons?i=mongodb,firebase,supabase&perline=10)
