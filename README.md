@@ -45,37 +45,27 @@ All projects below are **live in production** serving real users. Source code is
 
 ## 🛠️ Technology Stack
 
-**🎨 Frontend**
+<div align="left">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+### 💻 Languages
+![Languages](https://skillicons.dev/icons?i=javascript,python,c,cpp)
 
-**⚙️ Backend**
+### 🎨 Frontend
+![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&perline=10)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### ⚙️ Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,express,python&perline=10)
 
-**🗄️ Database & Auth**
+### 🗄️ Database & Auth
+![Database](https://skillicons.dev/icons?i=mongodb,firebase,supabase&perline=10)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### 🚀 Deployment
+![Deployment](https://skillicons.dev/icons?i=vercel,netlify&perline=10)
 
-**🚀 Deployment**
+### 🧰 Tools & Workflow
+![Tools](https://skillicons.dev/icons?i=docker,git,github,vscode&perline=10)
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-**🧰 Tools & Workflow**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</div>
 
 ---
 
@@ -95,13 +85,8 @@ All projects below are **live in production** serving real users. Source code is
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsifFoisal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AsifFoisal&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-languages/?username=AsifFoisal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
+  <img style="display: inline-block; vertical-align: middle;" width="308" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AsifFoisal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img style="display: inline-block; vertical-align: middle;" src="https://streak-stats.demolab.com/?user=AsifFoisal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ### 📈 Contribution Activity
@@ -136,5 +121,6 @@ All projects below are **live in production** serving real users. Source code is
 > *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:c026d3&height=110&section=footer)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:c026d3&height=110&section=footer" alt="G.M Asif Foisal — Full Stack Web Developer" />
+</div>
