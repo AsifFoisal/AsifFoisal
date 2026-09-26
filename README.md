@@ -91,13 +91,14 @@ All projects below are **live in production** serving real users. Source code is
 
 ### 📈 Contribution Activity
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AsifFoisal&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/AsifFoisal)
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AsifFoisal/AsifFoisal/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/AsifFoisal/AsifFoisal/output/github-contribution-grid-snake.svg">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AsifFoisal/github-snake-animation/output/github-contribution-grid-snake-dark.svg?v=2">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/AsifFoisal/github-snake-animation/output/github-contribution-grid-snake.svg?v=2">
+</picture>
+
+<sub> Reflects public contributions only. Client work kept private per confidentiality agreements.</sub>
+
 </div>
 
 ---
@@ -106,9 +107,21 @@ All projects below are **live in production** serving real users. Source code is
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-your@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-G.M%20Asif%20Foisal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AsifFoisal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-My_Work-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio.com)
+### 📫 Let's Connect
+
+<a href="mailto:your@email.com">
+  <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Email" width="36" height="36" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/AsifFoisal">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="36" height="36" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://your-portfolio.com">
+  <img src="https://cdn.simpleicons.org/googlechrome/7c3aed" alt="Portfolio" width="36" height="36" />
+</a>
+
+<br><br>
 
 **Open to freelance projects, collaborations & full-time opportunities.**
 
