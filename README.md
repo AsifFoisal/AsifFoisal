@@ -1,9 +1,21 @@
 <!-- ═══════════════ BANNER ═══════════════ -->
 <div align="center" style="width: 100%; margin: 0; padding: 0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:c026d3&height=230&section=header&text=G.M%20Asif%20Foisal&fontSize=44&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Web%20Developer&descSize=17&descAlignY=61&width=1000" alt="G.M Asif Foisal — Full Stack Web Developer" style="width: 100%; height: auto; display: block; border-radius: 0;" />
+  <img src='https://ibb.co.com/x8dGCkCn"><img src="https://i.ibb.co.com/4g3Mmqmb/Chat-GPT-Image-Sep-27-2026-05-07-01-AM.png" alt="Chat-GPT-Image-Sep-27-2026-05-07-01-AM" border="0"' alt="G.M Asif Foisal — Full Stack Web Developer" style="width: 100%; height: auto; display: block; border-radius: 0;" />
 </div>
 
----
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Hi%20👋,%20I'm%20G.M%20Asif%20Foisal&fontSize=40&fontColor=c9d1d9&fontAlignY=50&animation=fadeIn" alt="Hi 👋, I'm G.M Asif Foisal" />
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1500&color=58A6FF&center=true&vCenter=true&width=550&height=40&lines=Full+Stack+Web+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Building+Production-Ready+Apps;Clean+Code+%E2%80%A2+Scalable+Solutions;Let's+Build+Something+Great!" alt="Typing SVG" />
+
+</div>
+
+
 
 ## 👋 About Me
 
@@ -14,7 +26,7 @@ I'm **G.M Asif Foisal**, a passionate **Full Stack Web Developer** who loves cra
 - 💬 Ask me about **React, Next.js, Node.js**
 - 🎯 Goal: Ship products that people genuinely love to use
 
----
+
 
 ## 🔭 Currently Working On
 
@@ -27,7 +39,7 @@ I'm **G.M Asif Foisal**, a passionate **Full Stack Web Developer** who loves cra
 
 </div>
 
----
+
 
 ## 🌐 Production Websites I've Delivered
 
@@ -41,7 +53,17 @@ All projects below are **live in production** serving real users. Source code is
 
 > 💡 *For open-source contributions and personal projects where code can be shared, see my pinned repositories.*
 
----
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-asiffoisalaisc@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asiffoisalaisc@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-G.M%20Asif%20Foisal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asif-foisal-b1183436b)
+[![Facebook](https://img.shields.io/badge/Facebook-%20Asif%20Foisal-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/asif.foisal.2025)
+
+**Open to freelance projects, collaborations & full-time opportunities.**
+
+</div>
 
 ## 🛠️ Technology Stack
 
@@ -67,7 +89,7 @@ All projects below are **live in production** serving real users. Source code is
 
 </div>
 
----
+
 
 ## 💡 What I Bring to the Table
 
@@ -80,7 +102,7 @@ All projects below are **live in production** serving real users. Source code is
 
 </div>
 
----
+
 
 ## 📊 GitHub Analytics
 
@@ -100,22 +122,6 @@ All projects below are **live in production** serving real users. Source code is
 <sub> Reflects public contributions only. Client work kept private per confidentiality agreements.</sub>
 
 </div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Gmail-asiffoisalaisc@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asiffoisalaisc@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-G.M%20Asif%20Foisal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asif-foisal-b1183436b)
-[![Facebook](https://img.shields.io/badge/Facebook-%20Asif%20Foisal-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/asif.foisal.2025)
-
-**Open to freelance projects, collaborations & full-time opportunities.**
-
-</div>
-
----
 
 <div align="center">
 
