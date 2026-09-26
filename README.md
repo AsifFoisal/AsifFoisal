@@ -35,9 +35,9 @@ All projects below are **live in production** serving real users. Source code is
 
 | # | Website | What It Does | Live Link |
 |:---:|:---|:---|:---|
-| 01 | **Website Name** | One-line description of the business problem it solves | [Visit ↗](https://link.com) |
-| 02 | **Website Name** | One-line description of the business problem it solves | [Visit ↗](https://link.com) |
-| 03 | **Website Name** | One-line description of the business problem it solves | [Visit ↗](https://link.com) |
+| 01 | **Carnivore Codex Meat** | A South African online butcher delivering farm-fresh, hormone-free meat boxes (subscriptions, custom boxes, and bulk orders) with cold-chain nationwide shipping | [Visit ↗](https://www.carnivorecodexmeat.co.za/) |
+| 02 | **Zhua Furniture** | A South African home-solutions e-commerce platform selling premium furniture | [Visit ↗](https://www.zhuafurniture.com/) |
+| 03 | **Comptron** | The official Computer and Technology Club of North Western University (Bangladesh), organizing tech events, workshops, and competitions | [Visit ↗](https://comptron.nwu.ac.bd/) |
 
 > 💡 *For open-source contributions and personal projects where code can be shared, see my pinned repositories above.*
 
