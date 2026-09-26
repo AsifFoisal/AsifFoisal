@@ -1,6 +1,6 @@
 <!-- ═══════════════ BANNER ═══════════════ -->
 <div align="center" style="width: 100%; margin: 0; padding: 0;">
-  <img src='https://ibb.co.com/x8dGCkCn"><img src="https://i.ibb.co.com/4g3Mmqmb/Chat-GPT-Image-Sep-27-2026-05-07-01-AM.png" alt="Chat-GPT-Image-Sep-27-2026-05-07-01-AM" border="0"' alt="G.M Asif Foisal — Full Stack Web Developer" style="width: 100%; height: auto; display: block; border-radius: 0;" />
+  <img src="./banner/banner.png" alt="Chat-GPT-Image-Sep-27-2026-05-07-01-AM" border="0"' alt="G.M Asif Foisal — Full Stack Web Developer" style="width: 100%; height: auto; display: block; border-radius: 0;" />
 </div>
 
 
