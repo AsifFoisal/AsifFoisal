@@ -20,10 +20,10 @@ I'm **G.M Asif Foisal**, a passionate **Full Stack Web Developer** who loves cra
 
 <div align="center">
 
-### 🏗️ Project Name
-*Building a production-grade [brief description, e.g., SaaS dashboard / e-commerce platform] focused on performance, scalability, and real user needs.*
+### 🏗️ GlobalZwItech — Multi-Division Engineering Group Website
+*GlobalZwItech — a multi-division engineering group website with lead capture, an admin portal, and a Supabase-backed product catalogue, built on Next.js*
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Visit_Now-7c3aed?style=for-the-badge)](https://your-project-live-link.com)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Visit_Now-7c3aed?style=for-the-badge)](https://global-zw-itech.vercel.app/)
 
 </div>
 
