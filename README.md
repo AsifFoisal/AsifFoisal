@@ -70,7 +70,7 @@ All projects below are **live in production** serving real users. Source code is
 <div align="left">
 
 ### 💻 Languages
-![Languages](https://skillicons.dev/icons?i=javascript,python,c,cpp)
+![Languages](https://skillicons.dev/icons?i=javascript,typescript,python,c,cpp)
 
 ### 🎨 Frontend
 ![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&perline=10)
