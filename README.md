@@ -11,7 +11,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1500&color=58A6FF&center=true&vCenter=true&width=550&height=40&lines=Full+Stack+Web+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Building+Production-Ready+Apps;Clean+Code+%E2%80%A2+Scalable+Solutions;Let's+Build+Something+Great!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1500&color=58A6FF&center=true&vCenter=true&width=550&height=40&lines=Full+Stack+Web+Developer;AI%2FML+Enthusiast;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Building+Production-Ready+Apps;Clean+Code+%E2%80%A2+Scalable+Solutions;Let's+Build+Something+Great!" alt="Typing SVG" />
 
 </div>
 
