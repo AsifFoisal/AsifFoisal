@@ -32,10 +32,10 @@ I'm **G.M Asif Foisal**, a passionate **Full Stack Web Developer** who loves cra
 
 <div align="center">
 
-### 🏗️ GlobalZwItech — Multi-Division Engineering Group Website
-*GlobalZwItech — a multi-division engineering group website with lead capture, an admin portal, and a Supabase-backed product catalogue, built on Next.js*
+### 🎨 Seam Rahman — UI/UX Designer Portfolio
+*A personal portfolio showcasing design philosophy, creative process, and user-centric solutions.*
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Visit_Now-7c3aed?style=for-the-badge)](https://global-zw-itech.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Visit_Now-7c3aed?style=for-the-badge)](https://seam-rahman.vercel.app/)
 
 </div>
 
@@ -47,6 +47,7 @@ All projects below are **live in production** serving real users. Source code is
 
 | # | Website | What It Does | Live Link |
 |:---:|:---|:---|:---|
+| 01 | **GlobalSuntech** | A multi-division engineering group website with lead capture, an admin portal, and a Supabase-backed product catalogue, built on Next.js | [Visit ↗](https://www.globalzw-itech.com/) |
 | 01 | **Carnivore Codex Meat** | A South African online butcher delivering farm-fresh, hormone-free meat boxes (subscriptions, custom boxes, and bulk orders) with cold-chain nationwide shipping | [Visit ↗](https://www.carnivorecodexmeat.co.za/) |
 | 02 | **Zhua Furniture** | A South African home-solutions e-commerce platform selling premium furniture | [Visit ↗](https://www.zhuafurniture.com/) |
 | 03 | **Comptron** | The official Computer and Technology Club of North Western University (Bangladesh), organizing tech events, workshops, and competitions | [Visit ↗](https://comptron.nwu.ac.bd/) |
