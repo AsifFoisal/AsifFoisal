@@ -61,6 +61,7 @@ All projects below are **live in production** serving real users. Source code is
 [![Email](https://img.shields.io/badge/Gmail-asiffoisalaisc@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asiffoisalaisc@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-G.M%20Asif%20Foisal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asif-foisal-b1183436b)
 [![Facebook](https://img.shields.io/badge/Facebook-%20Asif%20Foisal-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/asif.foisal.2025)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://asif-foisal.vercel.app/)
 
 **Open to freelance projects, collaborations & full-time opportunities.**
 
